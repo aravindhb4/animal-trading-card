@@ -1,0 +1,53 @@
+#container {
+  box-shadow: 7px 7px 5px 1px rgba(219,216,219,1);
+  height: 535px;
+  width: 330px;
+  border: .5px solid #DBD8DB;
+  margin: 0 auto;
+  font-size: 85%;
+}
+
+.animal {
+  display: block;
+  height: 200px;
+  width: 300px;
+  margin: auto;
+}
+
+p {
+  margin: 0;
+  padding: 10px;
+}
+
+ul {
+  margin: 0;
+  padding: 10px;
+}
+
+h3 {
+  font-weight: bolder;
+  font-size: 120%;
+  margin-left: 19px;
+
+}
+
+#box {
+  border: .5px solid #DBD8DB;
+  width: 300px;
+  margin: 18px auto;
+  background-color: mintcream;
+}
+
+#fact {
+font-style: italic;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+li {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
